@@ -1,0 +1,9 @@
+.Dice .fas {
+  color: rgb(116, 26, 235);
+  font-size: 100px;
+}
+
+.Dice {
+  display: inline-block;
+  margin-right: 3rem;
+}

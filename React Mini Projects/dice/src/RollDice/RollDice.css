@@ -1,0 +1,15 @@
+.RollDice {
+  margin-top: 5rem;
+}
+
+.RollDice .button {
+  background-color: rgb(219, 94, 11);
+  display: block;
+  color: white;
+  padding: 10px 30px;
+  border-radius: 5px;
+  width: 20%;
+  margin: 0 auto;
+  margin-top: 5rem;
+  transform: translateX(-15px);
+}

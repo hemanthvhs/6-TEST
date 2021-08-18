@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.currentRoute {
+  border-bottom: 2px solid red;
+}
